@@ -1,4 +1,4 @@
-# 🎓 EduPath Navigator Enterprise
+# 🎓 EduPath
 ### AI-Powered Educational Orchestrator built with Google ADK, Gemini 1.5, and FastAPI
 
 EduPath Navigator Enterprise is a next-generation **autonomous multi-agent educational intelligence system** that automates research, grading, planning, and communication in the academic lifecycle.  
@@ -25,6 +25,8 @@ This project solves the *Time & Discovery Crisis* in modern education by enablin
 - Long-term student memory with SQLite
 
 ---
+<img width="1024" height="1024" alt="Gemini_Generated_Image_lrmx43lrmx43lrmx" src="https://github.com/user-attachments/assets/9f944e03-ec02-410e-8c2b-f3e6b0c44d74" />
+
 
 # 🏆 Project Overview
 
@@ -46,7 +48,8 @@ Daily performance summaries, parent reports, and classroom-wide insights for tea
 
 # 🧠 Architecture Overview
 
-(Add your diagram here)
+<img width="2403" height="1752" alt="Mermaid Chart - Create complex, visual diagrams with text -2025-12-01-091740" src="https://github.com/user-attachments/assets/25a0bfef-b18d-4b73-b28d-181b35ff6dda" />
+
 
 ---
 
@@ -92,8 +95,8 @@ Automatic token optimization.
 
 ## 1. Clone the Repository
 ```
-git clone https://github.com/YOUR_USERNAME/edupath-navigator.git
-cd edupath-navigator
+git clone https://github.com/jjeni/edupath.git
+cd edupath
 ```
 
 ## 2. Create a Virtual Environment
