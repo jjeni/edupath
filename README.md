@@ -168,12 +168,4 @@ edupath-navigator/
 └── edupath_enterprise.db
 ```
 
----
 
-# 📄 License
-Apache 2.0 License.
-
----
-
-# 🏅 Submission
-**$$Competition Name$$ – Hackathon 2025**
